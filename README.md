@@ -1,2 +1,2 @@
 # datasciencecoursera
-datasciencecoursera repo for data science toolkit projet
+datasciencecoursera repo for data science toolkit project
